@@ -12,3 +12,5 @@ https://eezycade.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Cade Ellsworth
+
+### ©️2019 Run Buddy, Inc 
